@@ -5,4 +5,6 @@ class MathUtils:
             return 1
         else:
             return n * MathUtils.factorial(n-1)
-print(MathUtils.factorial(5))
+#print(MathUtils.factorial(5))
+m = MathUtils()
+print(m.factorial(5)
