@@ -1,0 +1,6 @@
+The task is to write the task.
+
+Then append the task
+
+Then read the file and print the line as list using  readlines().
+Tasks Completed

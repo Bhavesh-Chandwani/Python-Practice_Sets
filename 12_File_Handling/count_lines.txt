@@ -1,0 +1,13 @@
+w+" is the file mode string passed to open(). Short summary:
+
+Opens the file for both reading and writing.
+Creates the file if it does not exist.
+Truncates the file to zero length immediately (so any existing content is lost).
+The file pointer starts at the beginning; after you write, the pointer is at the end — use seek(0) to read what you just wrote.
+
+The task is to write the task.
+
+Then append the task
+
+Then read the file and print the line as list using  readlines().
+Tasks Completed
